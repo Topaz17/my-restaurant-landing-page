@@ -141,8 +141,11 @@
   .app__gallery-images_container {
     padding: 0;
   }
+  .app__gallery-images_arrows {
+    padding: 0 2.5rem 0 2rem;
+  }
 }
 .app__gallery-images_arrows {
   bottom: 17%;
-  padding-right: 1rem;
+  right: 3.5%;
 }
