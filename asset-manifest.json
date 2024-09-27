@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-restaurant-landing-page/static/css/main.2ce556f0.css",
+    "main.css": "/my-restaurant-landing-page/static/css/main.8dab20c2.css",
     "main.js": "/my-restaurant-landing-page/static/js/main.7d7ece6f.js",
     "static/media/meal.mp4": "/my-restaurant-landing-page/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/my-restaurant-landing-page/static/media/bg.3d421b1b5682e1b67deb.png",
@@ -24,11 +24,11 @@
     "static/media/sign.png": "/my-restaurant-landing-page/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/my-restaurant-landing-page/index.html",
     "static/media/spoon.svg": "/my-restaurant-landing-page/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.2ce556f0.css.map": "/my-restaurant-landing-page/static/css/main.2ce556f0.css.map",
+    "main.8dab20c2.css.map": "/my-restaurant-landing-page/static/css/main.8dab20c2.css.map",
     "main.7d7ece6f.js.map": "/my-restaurant-landing-page/static/js/main.7d7ece6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ce556f0.css",
+    "static/css/main.8dab20c2.css",
     "static/js/main.7d7ece6f.js"
   ]
 }
