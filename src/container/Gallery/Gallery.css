@@ -26,7 +26,6 @@
 .app__gallery-images_container {
   display: flex;
   max-width: 100%;
-  padding-left:2rem ;
   flex-direction: row;
   overflow-x: scroll;
   -ms-overflow-style: none;
@@ -67,7 +66,7 @@
   width: 100%;
   justify-content: space-between;
   align-items: center;
- padding: 0 3rem; 
+  padding-left: 4rem;
   position: absolute;
   bottom: 5%;
 }
@@ -132,16 +131,18 @@
   }
   .app__gallery-images_arrows {
     bottom: 17%;
+    right: 6%;
   }
   .app__gallery-images {
     max-width: 100%;
   }
 }
 @media screen and (max-width: 320px) {
-     .app__gallery-images_container{
-        padding:0;
-    } 
-    .app__gallery-images_arrows{
-        padding:0 2.5rem 0 2rem;
-    }
+  .app__gallery-images_container {
+    padding: 0;
+  }
+}
+.app__gallery-images_arrows {
+  bottom: 17%;
+  padding-right: 1rem;
 }
